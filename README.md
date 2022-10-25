@@ -1,5 +1,10 @@
 # Synology SNMP + Zabbix setup [DSM 7]
 
+## Zabbix running inside docker VM setup 
+https://www.schaupper.at/synology-zabbix-docker/
+
+Use docker-compose.yaml from this repo
+
 ## Synology setup
 ```
 control panel -> terminal & snmp -> SNMP -> Enable SNMP service
