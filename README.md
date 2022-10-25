@@ -1,6 +1,8 @@
 # Synology SNMP + Zabbix setup [DSM 7]
 
-## Zabbix running inside docker VM setup 
+## Zabbix running inside docker VM setup
+Minimum RAM size for VM: 768MB
+
 https://www.schaupper.at/synology-zabbix-docker/
 
 Use docker-compose.yaml from this repo
