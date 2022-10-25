@@ -58,3 +58,11 @@ zabbix -> configuration -> hosts -> create host:
 
   -> Add
 ```
+
+Items: 146
+
+Triggers: 114
+
+Graphs: 25
+
+Discovery: 9
