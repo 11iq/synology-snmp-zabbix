@@ -58,7 +58,7 @@ zabbix -> configuration -> hosts -> create host:
 
   -> Add
 ```
-
+##
 Items: 146
 
 Triggers: 114
